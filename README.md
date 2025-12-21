@@ -2,7 +2,7 @@
 
 Este repositório contém os códigos e exemplos desenvolvidos durante o curso de C++.
 
-## 📋 Conteúdo do Curso
+## 📋 Conteúdo do Curso.
 
 ### 1. **Fundamentos da Linguagem C++**
 - Estrutura básica de um programa
