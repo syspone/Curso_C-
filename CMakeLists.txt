@@ -3,9 +3,12 @@ project(Curso)
 
 set(CMAKE_CXX_STANDARD 17)
 set(SOURCES
-        #Fundamentos/anatomy.cpp
-        Fundamentos/SegundaEstruct.cpp
-        Fundamentos/SegundaEstruct.h
+        Fundamentos/anatomy.cpp
+        Fundamentos/anatomy.h
+        #Fundamentos/SegundaEstruct.cpp
+        #Fundamentos/SegundaEstruct.h
+        #Fundamentos/Variaveis.cpp
+        #Fundamentos/Variaveis.h
         #main.cpp
 )
 

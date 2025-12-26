@@ -19,6 +19,5 @@ int main() {
     std ::cout
         << " This is a C++ program " // each statement ends with a semicolon
         << std::endl; // endl is used to insert a new line
-
     return 0;
 }
