@@ -5,8 +5,12 @@ set(CMAKE_CXX_STANDARD 17)
 set(SOURCES
         #Fundamentos/anatomy.cpp
         #Fundamentos/anatomy.h
-        Fundamentos/NameSpace.cpp
-        Fundamentos/NameSpace.h
+        #Fundamentos/NameSpace.cpp
+        #Fundamentos/NameSpace.h
+        #Fundamentos/io.cpp
+        #Fundamentos/io.h
+        Fundamentos/Ex1.cpp
+        Fundamentos/Ex1.h
         #Fundamentos/SegundaEstruct.cpp
         #Fundamentos/SegundaEstruct.h
         #Fundamentos/Variaveis.cpp
