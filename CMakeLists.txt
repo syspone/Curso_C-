@@ -9,8 +9,8 @@ set(SOURCES
         #Fundamentos/NameSpace.h
         #Fundamentos/io.cpp
         #Fundamentos/io.h
-        Fundamentos/Ex1.cpp
-        Fundamentos/Ex1.h
+        #Fundamentos/Ex1.cpp
+        #Fundamentos/Ex1.h
         #Fundamentos/SegundaEstruct.cpp
         #Fundamentos/SegundaEstruct.h
         #Fundamentos/Variaveis.cpp
