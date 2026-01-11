@@ -3,8 +3,8 @@ project(Curso)
 
 set(CMAKE_CXX_STANDARD 17)
 set(SOURCES
-        #Fundamentos/anatomy.cpp
-        #Fundamentos/anatomy.h
+        Fundamentos/anatomy.cpp
+        Fundamentos/anatomy.h
         #Fundamentos/NameSpace.cpp
         #Fundamentos/NameSpace.h
         #Fundamentos/io.cpp
